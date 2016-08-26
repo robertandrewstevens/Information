@@ -14,7 +14,7 @@ InfoSci07 - Chapter 7: MARKETS
 InfoSci08 - Chapter 8: PRICING SCHEMES  
 InfoSci09 - Chapter 9: VALUE  
 InfoSci10 - Chapter 10: INTERACTION  
-InfoSci11 - Chapter 11: CIPHERS
+InfoSci11 - Chapter 11: CIPHERS  
 InfoSci12 - Chapter 12: CRYPTOGRAPHY THEORY  
 InfoSci13 - Chapter 13: PUBLIC KEY CRYPTOGRAPHY  
 InfoSci14 - Chapter 14: SECURITY PROTOCOLS  
