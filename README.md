@@ -3,26 +3,26 @@ Information Science
  
 *Information Science* by David G. Luenberger
 
-InfoSci00 - Preface
-InfoSci00 - Chapter 1: INTRODUCTION  
-InfoSci00 - Chapter 2: INFORMATION DEFINITION  
-InfoSci00 - Chapter 3: CODES  
-InfoSci00 - Chapter 4: COMPRESSION  
-InfoSci00 - Chapter 5: CHANNELS  
-InfoSci00 - Chapter 6: ERROR-CORRECTING CODES  
-InfoSci00 - Chapter 7: MARKETS  
-InfoSci00 - Chapter 8: PRICING SCHEMES  
-InfoSci00 - Chapter 9: VALUE  
-InfoSci00 - Chapter 10: INTERACTION  
-InfoSci00 - Chapter 11: CIPHERS
-InfoSci00 - Chapter 12: CRYPTOGRAPHY THEORY  
-InfoSci00 - Chapter 13: PUBLIC KEY CRYPTOGRAPHY  
-InfoSci00 - Chapter 14: SECURITY PROTOCOLS  
-InfoSci00 - Chapter 15: DATA STRUCTURES  
-InfoSci00 - Chapter 16: DATABASE SYSTEMS  
-InfoSci00 - Chapter 17: INFORMATION RETRIEVAL  
-InfoSci00 - Chapter 18: DATA MINING  
-InfoSci00 - Chapter 19: FREQUENCY CONCEPTS  
-InfoSci00 - Chapter 20: RADIO WAVES  
-InfoSci00 - Chapter 21: SAMPLING AND CAPACITY  
-InfoSci00 - Chapter 22: NETWORKS  
+InfoSci00 - Preface  
+InfoSci01 - Chapter 1: INTRODUCTION  
+InfoSci02 - Chapter 2: INFORMATION DEFINITION  
+InfoSci03 - Chapter 3: CODES  
+InfoSci04 - Chapter 4: COMPRESSION  
+InfoSci05 - Chapter 5: CHANNELS  
+InfoSci06 - Chapter 6: ERROR-CORRECTING CODES  
+InfoSci07 - Chapter 7: MARKETS  
+InfoSci08 - Chapter 8: PRICING SCHEMES  
+InfoSci09 - Chapter 9: VALUE  
+InfoSci10 - Chapter 10: INTERACTION  
+InfoSci11 - Chapter 11: CIPHERS
+InfoSci12 - Chapter 12: CRYPTOGRAPHY THEORY  
+InfoSci13 - Chapter 13: PUBLIC KEY CRYPTOGRAPHY  
+InfoSci14 - Chapter 14: SECURITY PROTOCOLS  
+InfoSci15 - Chapter 15: DATA STRUCTURES  
+InfoSci16 - Chapter 16: DATABASE SYSTEMS  
+InfoSci17 - Chapter 17: INFORMATION RETRIEVAL  
+InfoSci18 - Chapter 18: DATA MINING  
+InfoSci19 - Chapter 19: FREQUENCY CONCEPTS  
+InfoSci20 - Chapter 20: RADIO WAVES  
+InfoSci21 - Chapter 21: SAMPLING AND CAPACITY  
+InfoSci22 - Chapter 22: NETWORKS  
